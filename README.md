@@ -1,4 +1,4 @@
-#House Price Predictions Using Linear Regression
+**House Price Predictions Using Linear Regression**
 
 Dataset used : https://www.kaggle.com/datasets/ashydv/housing-dataset
 
