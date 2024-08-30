@@ -1,4 +1,4 @@
-# **PRODIGY_ML_01**
+# **HOUSE-PRICE-PREDICTION**
 
 **House Price Predictions Using Linear Regression**
 
